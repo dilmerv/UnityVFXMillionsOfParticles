@@ -9,3 +9,7 @@ Results from various examples taught in YouTube:
 - Creating a Sun with more than 2 million particles - Scene (SunEffect.unity)
 
 <img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/sun.gif" width="300">
+
+- Creating a Realistic Fire - Scene (FireEffect.unity)
+
+<img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/fire.gif" width="300">
