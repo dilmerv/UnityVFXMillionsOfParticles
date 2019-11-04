@@ -13,3 +13,7 @@ Results from various examples taught in YouTube:
 - Creating a Realistic Fire - Scene (FireEffect.unity)
 
 <img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/fire.gif" width="300">
+
+- Creating a Realistic Fire With CCollisions - Scene (FireCollisionsEffect.unity)
+
+<img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/fireCollisions.gif" width="300">
