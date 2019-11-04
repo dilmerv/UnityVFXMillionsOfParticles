@@ -1,0 +1,16 @@
+
+=== Sun Nov  3 11:55:50 2019
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ext.nunit@1.0.0
+  com.unity.ide.vscode@1.1.2
+  com.unity.ide.rider@1.1.0
+  com.unity.ugui@1.0.0
+  com.unity.xr.management@3.0.3
+  com.unity.modules.androidjni@1.0.0
+The following packages were updated:
+  com.unity.test-framework from version 1.0.17 to 1.1.2
+  com.unity.timeline from version 1.1.0 to 1.2.2
