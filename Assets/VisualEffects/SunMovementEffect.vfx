@@ -53,7 +53,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614615}
   - {fileID: 8926484042661614625}
   - {fileID: 8926484042661614631}
-  m_UIPosition: {x: 661, y: 1545}
+  m_UIPosition: {x: 681, y: 1528}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -230,10 +230,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 135
+    x: 351
     y: -190
-    width: 955
-    height: 3429
+    width: 736
+    height: 2574
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -507,7 +507,7 @@ MonoBehaviour:
   m_Children:
   - {fileID: 8926484042661614575}
   - {fileID: 8926484042661614595}
-  m_UIPosition: {x: 714, y: 566}
+  m_UIPosition: {x: 711, y: 634}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -1089,7 +1089,7 @@ VisualEffectResource:
       Initialize built-in needed attributes\r\n\t\t\t\t\t\t#if HAS_STRIPS\r\n\t\t\t\t\t\tInitStripAttributes(index,
       attributes, stripData);\r\n\t\t\t\t\t\t#endif\r\n\t\t\t\t\t\t\t\r\n\t\t\t\tOrient_4(
       /*inout */attributes.axisX,  /*inout */attributes.axisY,  /*inout */attributes.axisZ);\n\t\t\t\t{\n\t\t\t\t   
-      SetAttribute_3278B22F( /*inout */attributes.size, (float)-0.00899999961);\n\t\t\t\t}\n\t\t\t\t{\n\t\t\t\t   
+      SetAttribute_3278B22F( /*inout */attributes.size, (float)0.00899999961);\n\t\t\t\t}\n\t\t\t\t{\n\t\t\t\t   
       SetAttribute_D8CFD75F( /*inout */attributes.scaleX,  /*inout */attributes.scaleY, 
       /*inout */attributes.scaleZ, float3(3.51999998, 0.370000005, 0.280000001));\n\t\t\t\t}\n\t\t\t\t{\n\t\t\t\t   
       AttributeFromCurve_30403899( /*inout */attributes.color,  /*inout */attributes.alpha,
@@ -1510,7 +1510,7 @@ VisualEffectResource:
         - m_ExpressionIndex: 22
           m_Value: 0.05806452
         - m_ExpressionIndex: 23
-          m_Value: -0.009
+          m_Value: 0.009
         - m_ExpressionIndex: 24
           m_Value: 2.69
         - m_ExpressionIndex: 28
@@ -2332,7 +2332,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: -0.003
+      m_SerializableObject: 0.009
     m_Space: 2147483647
   m_Property:
     name: Size
@@ -3882,7 +3882,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":0.009999999776482582,"y":0.009999999776482582,"z":0.009999999776482582}'
+      m_SerializableObject: '{"x":3.5199999809265138,"y":0.3700000047683716,"z":0.2800000011920929}'
     m_Space: 2147483647
   m_Property:
     name: Scale
@@ -4433,7 +4433,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.0},{"color":{"r":1.0,"g":0.5105519890785217,"b":0.0,"a":1.0},"time":0.3029373586177826},{"color":{"r":1.5114096403121949,"g":0.8783251643180847,"b":0.0,"a":1.0},"time":0.5000076293945313},{"color":{"r":3.879284381866455,"g":0.10838920623064041,"b":0.0,"a":1.0},"time":0.7000076174736023}],"alphaKeys":[{"alpha":0.5686274766921997,"time":0.0},{"alpha":1.0,"time":0.9970549941062927}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.0},{"color":{"r":1.0,"g":0.5105519890785217,"b":0.0,"a":1.0},"time":0.3029373586177826},{"color":{"r":1.5114096403121949,"g":0.8783251643180847,"b":0.0,"a":1.0},"time":0.5000076293945313},{"color":{"r":3.879284381866455,"g":0.10838920623064041,"b":0.0,"a":1.0},"time":0.7000076174736023},{"color":{"r":2.0876498222351076,"g":0.21860207617282868,"b":0.0,"a":1.0},"time":0.9000076055526733}],"alphaKeys":[{"alpha":0.5686274766921997,"time":0.0},{"alpha":1.0,"time":0.9970549941062927}],"gradientMode":0}'
     m_Space: 2147483647
   m_Property:
     name: gradient
@@ -4510,7 +4510,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 366, y: 907}
+  m_UIPosition: {x: 354, y: 875}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -4542,7 +4542,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 3.8
+      m_SerializableObject: 5
     m_Space: 2147483647
   m_Property:
     name: Period
@@ -4590,7 +4590,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector2, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":-0.800000011920929,"y":10.600000381469727}'
+      m_SerializableObject: '{"x":-0.800000011920929,"y":0.800000011920929}'
     m_Space: 2147483647
   m_Property:
     name: Range
@@ -4721,7 +4721,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 368, y: 593}
+  m_UIPosition: {x: 351, y: 610}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -4753,7 +4753,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.9
+      m_SerializableObject: 17.57
     m_Space: 2147483647
   m_Property:
     name: Period
@@ -4964,7 +4964,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 1
+      m_SerializableObject: 5
     m_Space: 2147483647
   m_Property:
     name: Period
