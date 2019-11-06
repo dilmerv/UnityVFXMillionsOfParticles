@@ -17,3 +17,7 @@ Results from various examples taught in YouTube:
 - Creating a Realistic Fire With Collisions - Scene (FireCollisionsEffect.unity)
 
 <img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/fireCollisions.gif" width="300">
+
+- Creating a Sun type with movement with more than 5 million particles - Scene (SunMovementEffect.unity)
+
+<img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/sunMovement.gif" width="300">
