@@ -21,3 +21,11 @@ Results from various examples taught in YouTube:
 - Creating a Sun type with movement with more than 5 million particles - Scene (SunMovementEffect.unity)
 
 <img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/sunMovement.gif" width="300">
+
+- Blue Flame effect (FireBlueCollisionsEffect.unity)
+
+<img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/blueflame.gif" width="300">
+
+- Carpet Flame effect (FireRedCollisionsEffect.unity)
+
+<img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/carpetflame.gif" width="300">
