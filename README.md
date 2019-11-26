@@ -10,6 +10,14 @@ Results from various examples taught in YouTube:
 
 <img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/sun.gif" width="300">
 
+- Space effect (SpaceEffect.unity)
+
+<img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/space.gif" width="300">
+
+- Circle With Red Rays effect (CircleRedRaysEffect.unity)
+
+<img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/circlered.gif" width="300">
+
 - Creating a Realistic Fire - Scene (FireEffect.unity)
 
 <img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/fire.gif" width="300">
