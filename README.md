@@ -37,3 +37,7 @@ Results from various examples taught in YouTube:
 - Carpet Flame effect (FireRedCollisionsEffect.unity)
 
 <img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/carpetflame.gif" width="300">
+
+- Flames using Three Dimensional Nodes (ThreeDimensionalEffect.unity)
+
+<img src="https://github.com/dilmerv/UnityVFXMillionsOfParticles/blob/master/docs/images/threedimensional.gif" width="300">
