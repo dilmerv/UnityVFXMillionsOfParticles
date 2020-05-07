@@ -6,6 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/CircleRedRaysEffect.unity
+    guid: 8bdc0a9fef9d44dbca427663bffac0f8
+  - enabled: 1
+    path: Assets/Scenes/FireBlueCollisionsEffect.unity
+    guid: 3d400bd06e6a94a8e85e0a2886ee4d1b
+  - enabled: 1
+    path: Assets/Scenes/FireCollisionsEffect.unity
+    guid: 43832e4aa6aea444e864ba02e98749c4
+  - enabled: 1
+    path: Assets/Scenes/FireEffect.unity
+    guid: a078e6f833a324b9cbdeaf4e982a787f
+  - enabled: 1
+    path: Assets/Scenes/FireEffectWithPointCacheSkeleton.unity
+    guid: d403d14434ac2a348ad1406361ecac6e
+  - enabled: 1
+    path: Assets/Scenes/FireRedCollisionsEffect.unity
+    guid: 1dfa3951dc465425481999f555901850
+  - enabled: 1
+    path: Assets/Scenes/SpaceEffect.unity
+    guid: fc441c93edb71466cacf0210800bc099
+  - enabled: 1
     path: Assets/Scenes/SunEffect.unity
     guid: cbfe36cfddfde964d9dfce63a355d5dd
+  - enabled: 1
+    path: Assets/Scenes/SunMovementEffect.unity
+    guid: 4a92d16ce948f4748a74017b10ef6a03
+  - enabled: 1
+    path: Assets/Scenes/ThreeDimensionalEffect.unity
+    guid: 4d37488f18b5a49ca934ad22e3f802d4
   m_configObjects: {}
